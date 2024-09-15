@@ -7,15 +7,12 @@ Password input field checks the following:
 - presence of at least 1 number
 - presence of at least 1 special symbol
 
-**No input state**
 ![Input](./img/no_input.png)
 
 ## Additional features:
 - once any of the conditions is met, icon changes to tick mark inside the shield and condition text changes color from gray to green
 
-**Input verification**
 ![Input](./img/input_hidden.png)
 - by clicking the eye icon, visibility of input changes from password to text
 
-**Input visibility**
 ![Input visibility](./img/input_visible.png)
